@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav a {
+  color: black;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
